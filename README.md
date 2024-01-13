@@ -9,8 +9,9 @@
 *Prática de Machine Learning usando técnicas de SVM para reconhecimento de imagens.
 
  * Para esse estudo foi utilizado o Dataset 'Digits' do sklearn.
- * A imagem utilizada no case foi do caractere 1, disponivel nesse link.
-  ![Imagem do caractere](number.PNG)
+ * A imagem utilizada no case foi do caractere 1, (8x8px):
+ * ![number1](number.PNG)
+  
  
 ## 📌 Objetivo
 
