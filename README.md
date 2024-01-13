@@ -30,4 +30,4 @@
     
 ## ✔ Resultados
 
-* O modelo de regresão linear utilizado atingiu um performance de acerto de 0.9629 sendo aplicável para este caso.
+* O modelo de regresão linear utilizado atingiu uma performance de acerto de 0.9629 sendo aplicável para este caso.
